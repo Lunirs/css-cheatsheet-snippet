@@ -1,4 +1,4 @@
-# Unit 02 Mini-Project: CSS Snippet Cheat Sheet
+# Module 02 Mini-Project: CSS Snippet Cheat Sheet
 
 In this activity, you will work with a group to build a webpage that will hold a collection of CSS snippets. What better way to learn CSS than to build a knowledge base of CSS?
 
@@ -53,4 +53,4 @@ The completed application should meet the following criteria:
 * Set this project up in your own GitHub repositories so that you can deploy and use it for future reference!
 
 ---
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
